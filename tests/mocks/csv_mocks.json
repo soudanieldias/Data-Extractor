@@ -1,0 +1,50 @@
+[
+  {
+    "name": "John",
+    "last_name": "Doe",
+    "address": "120 jefferson st.",
+    "city": "Riverside",
+    "province": "NJ",
+    "zip_code": "08075"
+  },
+  {
+    "name": "Jack",
+    "last_name": "McGinnis",
+    "address": "220 hobo Av.",
+    "city": "Phila",
+    "province": "PA",
+    "zip_code": "09119"
+  },
+  {
+    "name": "John Da Man",
+    "last_name": "Repici",
+    "address": "120 Jefferson St.",
+    "city": "Riverside",
+    "province": "NJ",
+    "zip_code": "08075"
+  },
+  {
+    "name": "Stephen",
+    "last_name": "Tyler",
+    "address": "7452 Terrace, At the Plaza road",
+    "city": "SomeTown",
+    "province": "SD",
+    "zip_code": "91234"
+  },
+  {
+    "name": "",
+    "last_name": "Blankman",
+    "address": "",
+    "city": "SomeTown",
+    "province": "SD",
+    "zip_code": "00298"
+  },
+  {
+    "name": "Joan the bone Anne",
+    "last_name": "Jet",
+    "address": "9th, at Terrace plc",
+    "city": "Desert City",
+    "province": "CO",
+    "zip_code": "00123"
+  }
+]
