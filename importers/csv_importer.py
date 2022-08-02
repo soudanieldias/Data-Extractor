@@ -1,5 +1,6 @@
+from .importer import Importer
+# from importer import Importer
 import csv
-from importer import Importer
 
 
 class CsvImporter(Importer):

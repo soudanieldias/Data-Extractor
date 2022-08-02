@@ -1,4 +1,4 @@
-from importer import Importer
+from .importer import Importer
 import xmltodict
 
 
@@ -9,7 +9,7 @@ class XmlImporter(Importer):
         file_path = file_name.split('.')[-1]
 
         if file_path != "xml":
-            raise ValueError("Arquivo inválido")
+            raise ValueError("Arquivo no formato inválido")
 
         with open(path, encoding="utf-8") as file:
             all_data = xmltodict.parse(file.read())
